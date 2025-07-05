@@ -1,4 +1,4 @@
-Manage your Task using this Task Manager.
+A lightweight web-based Task Manager application built using Flask, designed to help users efficiently manage their daily tasks with simple CRUD operations. This project was developed as a Capstone Project for Semester 5
 
 ## Tech Stack
 
@@ -43,4 +43,9 @@ Manage your Task using this Task Manager.
 - **Edit a Task:** Click "Edit" next to a task to modify its details.
 - **Delete a Task:** Click "Delete" to remove a task from the list.
 - **Mark Complete/Incomplete:** Toggle the status to keep your list organized.
+  
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
 
